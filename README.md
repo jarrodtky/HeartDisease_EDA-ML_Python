@@ -30,6 +30,7 @@
 - [Python](https://www.python.org/) is used to assist this project with Data Mining by extracting important insights using: 
   - [Basic Statistics](https://en.wikipedia.org/wiki/Statistics)
   - [Data Visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization)
+  - [Exploratory Data Analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
   - [Supervised Machine Learning Models (Classification)](https://en.wikipedia.org/wiki/Supervised_learning)
     - [Decision Tree Classifier](https://en.wikipedia.org/wiki/Decision_tree_learning)
     - [Neural Network Classifier](https://en.wikipedia.org/wiki/Neural_network)
