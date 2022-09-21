@@ -25,7 +25,7 @@
 
 
 ## Project Overview
-- Use Data Mining approach to identify which patient has heart disease or not based on the features like Age, Sex, ChestPainType, etc.
+- Use Data Mining approach to identify which patient has heart disease or not based on features like Age, Sex, ChestPainType, etc.
 - The dataset can be obtained [here from Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?datasetId=1582403&sortBy=voteCount&searchQuery=logi).
 - [Python](https://www.python.org/) is used to assist this project with Data Mining by extracting important insights using: 
   - [Basic Statistics](https://en.wikipedia.org/wiki/Statistics)
