@@ -4,11 +4,11 @@
 
 # HeartDisease_EDA-ML_Python
 
-Data Mining Course
+**Course:** Data Mining
 
-**Topic: Data Mining Process for Heart Disease Patients' Data**
+**Topic:** Data Mining Process for Heart Disease Patients' Data
 
-**Keywords:** Data Science, Data Mining, Exploratory Data Analysis (EDA), Machine Learning, Heart Disease.
+**Keywords:** Data Science, Data Mining, Exploratory Data Analysis (EDA), Machine Learning, Heart Disease
 
 
 
