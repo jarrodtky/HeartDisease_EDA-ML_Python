@@ -8,7 +8,7 @@
 
 **Topic:** Data Mining Process for Heart Disease Patients' Data
 
-**Keywords:** Data Mining, Exploratory Data Analysis (EDA), Machine Learning, Heart Disease
+**Keywords:** Data Mining, Exploratory Data Analysis (EDA), Machine Learning, Heart Disease, Python
 
 
 
