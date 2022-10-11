@@ -60,8 +60,8 @@
 **(1) HeartDisease_Dataset.csv**
   - Heart Disease dataset file in CSV format.
 
-**(2) HeartDisease_EDA-ML_Python.ipynb**
-  - The main notebook containing the Python implementation codes (along with explanations) for the project.
+**(2) HeartDisease_EDA-ML_Python Folder**
+  - Contains the main Python notebook containing implementation codes (along with explanations) for the project.
 
 
 
