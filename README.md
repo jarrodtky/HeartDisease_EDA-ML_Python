@@ -61,7 +61,7 @@
   - Heart Disease dataset file in CSV format.
 
 **(2) HeartDisease_EDA-ML_Python Folder**
-  - Contains the main Python notebook containing implementation codes (along with explanations) for the project.
+  - Contains the main Python notebook with implementation codes and explanations for the project.
 
 
 
