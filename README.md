@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="1000" src="https://img.freepik.com/free-vector/banner-medical-care-with-human-heart_1419-2188.jpg">
+    <img width="500" src="https://www.way2smile.ae/blog/wp-content/uploads/2020/08/data-mining-in-healthcare-industry-300x170.png">
 </p>
 
 # HeartDisease_EDA-ML_Python
